@@ -51,31 +51,49 @@ cd nome-do-repositorio
 
 # Execute o script
 python nome_do_arquivo.py
+```
 
 📌 Exemplo de saída
+```bash
 123.456.789-09
 CPF válido
+```
 
-⚠️ Aviso legal
+## ⚠️ Aviso legal
+
 Este projeto foi criado apenas para fins educacionais e testes de software.
+
 CPFs gerados não devem ser utilizados para fins ilegais ou fraudulentos.
 
-📈 Possíveis melhorias futuras
-🔍 Função para validar CPFs informados pelo usuário
-🧪 Testes automatizados
-🖥️ Interface gráfica (GUI)
-🌐 Versão web
+---
 
-🛠️ Tecnologias utilizadas
-Python
+## 📈 Possíveis melhorias futuras
 
-Biblioteca padrão (random, os)
+- 🔍 Função para validar CPFs informados pelo usuário
+- 🧪 Testes automatizados
+- 🖥️ Interface gráfica (GUI)
+- 🌐 Versão web
 
-📜 Licença
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- Python  
+- Biblioteca padrão (`random`, `os`)
+
+---
+
+## 📜 Licença
+
 Este projeto pode ser distribuído sob a licença MIT.
+
 Sinta-se à vontade para estudar, modificar e melhorar o código.
 
-👨‍💻 Autor
-Desenvolvido por Gilvane Maule
-📌 Formado em Análise e Desenvolvimento de Sistemas
-📌 Cursando Pós Graduação IA e Ciência de Dados
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Gilvane Maule**
+
+📌 Formado em Análise e Desenvolvimento de Sistemas  
+📌 Cursando Pós-Graduação em IA e Ciência de Dados
